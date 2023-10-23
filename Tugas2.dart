@@ -8,6 +8,6 @@ var twoNumber = (List<int> data) =>
 
 void main(){
   print(sequenceGenerator(1, 10));
-  print(fizzBuzzList(1, 15));
-  print(twoNumber([0,1,10]));
+  print(fizzBuzzList(1, 20));
+  print(twoNumber([1,1,5]));
 }
